@@ -1,0 +1,19 @@
+.eatch-tweet-body-container{
+  
+    margin: 2rem;
+}
+
+.icon-handle{
+    display:flex;
+    gap: 6rem;
+}
+.icon-handle button{
+    border:none;
+    background:white;
+    cursor:pointer;
+}
+.icon-handle button:hover{
+    border-radius: 50%;
+    background:pink;
+    height:1.5rem;
+}
