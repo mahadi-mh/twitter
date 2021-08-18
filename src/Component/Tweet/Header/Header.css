@@ -1,0 +1,16 @@
+.header-container{
+    padding:1rem;
+border-bottom: 1px solid rgb(231, 225, 225);
+}
+span{
+ 
+    font-size:1.5rem;
+    font-weight:bold;
+    color:black;
+}
+a{
+    float:right;
+    background:white;
+    border:none;
+    cursor:pointer;
+}
