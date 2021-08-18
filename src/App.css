@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.main-container {
+  display: flex;
+  padding: 1rem;
+}
+
+.menu-container {
+  width: 25%;
+  border-right: 1px solid rgb(224, 202, 202);
+}
+
+.tweet-body-container {
+  width: 50%;
+}
+
+.trending-container {
+  width: 25%;
+  border-left: 1px solid rgb(224, 202, 202);
+}

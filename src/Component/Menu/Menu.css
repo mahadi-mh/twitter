@@ -1,36 +1,44 @@
-.menu-img img{
-    width:4rem;
-    
+.menu-img img {
+    width: 4rem;
 }
-#home-btn{
-    color:black;
+
+#home-btn {
+    color: black;
     font-weight: bold;
 }
-.btn-des{
-    background:white;
-    color:rgb(78, 77, 77);
-    border:none;
-    cursor:pointer;
-    padding:0.9rem;
+
+.btn-des {
+    background: white;
+    color: rgb(78, 77, 77);
+    border: none;
+    cursor: pointer;
+    padding: 0.9rem;
     font-size: 1.2rem;
-  
 }
-.btn-des:hover{
-    background:rgb(231, 230, 230);
+
+.btn-des:hover {
+    background: rgb(231, 230, 230);
     border-radius: 2rem;
-    
 }
-#tweet-btn{
-    border:none;
-    color:white;
+
+#tweet-btn {
+    border: none;
+    color: white;
     font-size: 1rem;
     font-weight: bold;
     margin-top: 1rem;
-    background:rgb(18, 152, 214);
+    background: rgb(18, 152, 214);
     border-radius: 2rem;
-    height:3.5rem;
-    width:14rem;
+    height: 3.5rem;
+    width: 14rem;
 }
-#tweet-btn:hover{
-    background:rgb(11, 101, 146)
+
+#tweet-btn:hover {
+    background: rgb(11, 101, 146)
+}
+
+.menu-div {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
 }
