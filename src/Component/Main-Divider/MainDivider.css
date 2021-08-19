@@ -1,8 +1,6 @@
 .main-container{
-
    display:flex;
    padding:1rem;
- 
 }
 .menu-container{
    width:20%;
@@ -13,6 +11,6 @@
     width:45%;
 }
 .trending-container{
-   width:25%;
+   width:30%;
    border-left:1px solid rgb(224, 202, 202);
 }
