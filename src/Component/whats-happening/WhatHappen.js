@@ -2,15 +2,14 @@ import React from 'react'
 import './WhatHappen.css'
 
 function WhatHappen() {
-    const what = " What's Happening";
 
     return (
         <div className='whatHappen-container'>
-            <textarea className='what-textarea' placeholder={what}>
-
-            </textarea>
+            <div className="input-container" contentEditable="true">
+                
+            </div>
         </div>
     )
 }
 
-export default  WhatHappen
+export default WhatHappen
